@@ -1,6 +1,6 @@
 # OS-Scheduler
-In this assignment, you will implement a simple OS scheduler using C/C++. The scheduler’s task is to
-receive a set of processes and their details, and then decide the order of executing these processes
+
+The scheduler’s task is to receive a set of processes and their details, and then decide the order of executing these processes
 based on the chosen algorithm. Finally, the scheduler will output the order of process execution, in
 addition to some stats about each of the processes.
 The scheduling algorithm chosen for this assignment will be FIFO (First In First Out). The input will start
